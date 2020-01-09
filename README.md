@@ -34,5 +34,5 @@ Voor de extra ervaring heb ik besloten om het versturen van het lijstje op dezel
     - De reden waarom ik met CSS variable werk is, omdat ik up-to-date wil blijven met de nieuwste CSS technieken. Dit probleem kan   verholpen worden door geen variable te gebruiken.
     
 - QuerySelector
- - 97.6 %
-   - Om ervoor te zorgen dat 100% van mijn gebruikers de site kan gebruiken, heb ik aan het begin van de code `if(document.querySelector){` staan. Als querySelector namelijk niet ge-support wordt, dan heb ik dus "plane" HTML en CSS als fallback.    
+  - 97.6 %
+    - Om ervoor te zorgen dat 100% van mijn gebruikers de site kan gebruiken, heb ik aan het begin van de code `if(document.querySelector){` staan. Als querySelector namelijk niet ge-support wordt, dan heb ik dus "plane" HTML en CSS als fallback.    
