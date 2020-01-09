@@ -26,3 +26,4 @@ Voor de kleuren en hover/focus states heb ik gebruik gemaakt van [funkify](https
 
 
 ### JavaScript
+Voor de extra ervaring heb ik besloten om het versturen van het lijstje op dezelfde pagina te houden als waar je het samenstelt. Dit scheelt weer een opnieuw inladen van een nieuwe pagina. Ook heb ik een extra animatie toegevoegd. Dit zorgt nu dat het moment dat je het formulier verstuurt, het inklapt en dat een bonnetje (inclusief scherpe randjes) met daarop je ingrediënten naar beneden komt. Ik was geïnspireerd door de Albert Heijn voor dit.
