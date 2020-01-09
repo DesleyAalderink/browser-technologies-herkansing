@@ -17,9 +17,12 @@ De user case die ik gekozen heb voor dit vak is:
    
 ## Mijn process
 ### HTML
-De HTML moet goed worden opgemaakt en zal gebruikt worden als de basis. Daarom moet het semantisch en logisch worden opgebouwd. Naast basis HTML heb ik in deze laag ook gewerkt aan het samenstellen van de data (de producten van het lijstje), het maken van de .ejs templates en werken aan de server-side scripting. Na een paar tutorials gekeken te hebben over Node JS en na het overleggen op werk of de uitwerking in mijn hoofd de meest semantische manier was, 
+De HTML moet goed worden opgemaakt en zal gebruikt worden als de basis. Daarom moet het semantisch en logisch worden opgebouwd. Naast basis HTML heb ik in deze laag ook gewerkt aan het samenstellen van de data (de producten van het lijstje), het maken van de .ejs templates en werken aan de server-side scripting. Na een paar tutorials gekeken te hebben over Node JS en na het overleggen op werk of de uitwerking in mijn hoofd de meest semantische manier was, kon ik aan de slag.
 
 
 ### CSS
+Na inspiratie opgezocht te hebben online heb ik een ontwerp designed. Dit is in de style van minimalisme. Het lijstje is duidelijk zichtbaar en spreekt voor zichzelf. Met CSS heb ik me gefocused dat het accessible is voor iedereen, dus ook voor mensen met een handicap.
+Voor de kleuren en hover/focus states heb ik gebruik gemaakt van [funkify](https://www.funkify.org/) om een goeie kleur contrast te bepalen. De tab route is logisch opgezet, dus de gebruiker kan er gemakkelijk door heen gaan. Voor de rest heb ik CSS code gebruikt dat op oudere browsers ook support wordt. hier voor heb ik zowel gebruik gemaakt van [caniuse](https://caniuse.com/) als [browserstack](https://www.browserstack.com/) om te testen of het lijstje het overal optimaal doet. 
+
 
 ### JavaScript
