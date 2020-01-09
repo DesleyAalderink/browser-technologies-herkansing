@@ -17,7 +17,7 @@ De user case die ik gekozen heb voor dit vak is:
    
 ## Mijn process
 ### HTML
-De HTML moet goed worden opgemaakt en zal gebruikt worden als de basis. Daarom moet het semantisch en logisch worden opgebouwd. Naast basis HTML heb ik in deze laag ook gewerkt aan het samenstellen van de data (de producten van het lijstje), het maken van de .ejs templates en werken aan de server-side scripting. Na een paar tutorials gekeken te hebben over Node JS en na het overleggen op werk of de uitwerking in mijn hoofd de meest semantische manier was, kon ik aan de slag.
+De HTML moet goed worden opgemaakt en zal gebruikt worden als de basis. Daarom moet het semantisch en logisch worden opgebouwd. Ik werk met `<select>` en `<options>` voor de opmaak van het lijstje. Naast basis HTML heb ik in deze laag ook gewerkt aan het samenstellen van de data (de producten van het lijstje), het maken van de .ejs templates en werken aan de server-side scripting. Na een paar tutorials gekeken te hebben over Node JS en na het overleggen op werk of de uitwerking in mijn hoofd de meest semantische manier was, kon ik aan de slag. 
 
 
 ### CSS
