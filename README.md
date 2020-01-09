@@ -36,3 +36,23 @@ Voor de extra ervaring heb ik besloten om het versturen van het lijstje op dezel
 - QuerySelector
   - 97.6 %
     - Om ervoor te zorgen dat 100% van mijn gebruikers de site kan gebruiken, heb ik aan het begin van de code `if(document.querySelector){` staan. Als querySelector namelijk niet ge-support wordt, dan heb ik dus basis HTML en CSS als fallback.    
+ ## Browsertest
+ Ik heb mijn lijstje op meerdere browsers getest (via Browserstack) en overal was het resultaat hetzelfde. Het werkte optimaal naar behoren zonder enige buggs.
+ 
+ ## Conclusie
+ Mijn boodschappen-om-tostis-te-maken lijstje is toegankelijk voor 100% van de internet gebruikers. Ik heb dit getest op meerdere browsers/devices.
+ 
+ ### Beoordelingscriteria
+- [x] De code staat in een repository op GitHub
+- [x] Er is een Readme toegevoegd met daarin beschreven:
+  - [x] een beschrijving van de core functionality
+  - [x] een beschrijving van de feature(s)/Browser Technologies
+  - [x] welke browser de feature(s) wel/niet ondersteunen
+  - [x] een beschrijving van de accessibility issues die zijn onderzocht
+- [x] De demo is opgebouwd in 3 lagen, volgens het principe van Progressive Enhancement
+- [x] De user experience van de demo is goed
+  - [x] de leesbaarheidsregels zijn toegepast, contrast en kleuren kloppen
+  - [x] het heeft een gebruiksvriendelijke interface, met gebruikmaking van affordance en feedback op de interactieve elementen
+  - [x] met meest 'enhanced' versie is super vet, gaaf en h-e-l-e-maal te leuk om te gebruiken
+- [x] Student kan de Basic functionaliteit van een use case doorgronden
+- [x] Student kan uitleggen wat Progressive Enhancement en Feature Detectie is en hoe dit toe te passen in Web Development
