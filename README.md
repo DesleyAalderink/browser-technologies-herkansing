@@ -27,3 +27,12 @@ Voor de kleuren en hover/focus states heb ik gebruik gemaakt van [funkify](https
 
 ### JavaScript
 Voor de extra ervaring heb ik besloten om het versturen van het lijstje op dezelfde pagina te houden als waar je het samenstelt. Dit scheelt weer een opnieuw inladen van een nieuwe pagina. Ook heb ik een extra animatie toegevoegd. Dit zorgt nu dat het moment dat je het formulier verstuurt, het inklapt en dat een bonnetje (inclusief scherpe randjes) met daarop je ingrediënten naar beneden komt. Ik was geïnspireerd door de Albert Heijn voor dit.
+
+### Support en feature detection
+- CSS variable
+  - 93.15%
+    - De reden waarom ik met CSS variable werk is, omdat ik up-to-date wil blijven met de nieuwste CSS technieken. Dit probleem kan   verholpen worden door geen variable te gebruiken.
+    
+- QuerySelector
+ - 97.6 %
+   - Om ervoor te zorgen dat 100% van mijn gebruikers de site kan gebruiken, heb ik aan het begin van de code `if(document.querySelector){` staan. Als querySelector namelijk niet ge-support wordt, dan heb ik dus "plane" HTML en CSS als fallback.    
