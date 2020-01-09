@@ -35,4 +35,4 @@ Voor de extra ervaring heb ik besloten om het versturen van het lijstje op dezel
     
 - QuerySelector
   - 97.6 %
-    - Om ervoor te zorgen dat 100% van mijn gebruikers de site kan gebruiken, heb ik aan het begin van de code `if(document.querySelector){` staan. Als querySelector namelijk niet ge-support wordt, dan heb ik dus "plane" HTML en CSS als fallback.    
+    - Om ervoor te zorgen dat 100% van mijn gebruikers de site kan gebruiken, heb ik aan het begin van de code `if(document.querySelector){` staan. Als querySelector namelijk niet ge-support wordt, dan heb ik dus basis HTML en CSS als fallback.    
