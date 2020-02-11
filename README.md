@@ -40,14 +40,20 @@ Voor de extra ervaring heb ik besloten om het versturen van het lijstje op dezel
  Ik heb mijn lijstje op meerdere browsers getest. Over het algemeen zag het er goed uit. Het kwam soms door dat bepaalde stijlingen niet helemaal goed doorkwamen en ik heb zelfs gemerkt dat er op 1 device zowel de CSS als de JS het niet deed. 
  
  ### Xperia Z5
- ![experia test][xperia1]
+ ![experia 1ste scherm][xperia1]
+ 
+ ![experia 2de scherm][xperia1]
  
  ### LG G5
+ ![lg scherm][lg]
  
  ### ipad mini 3
+ ![ipad 1ste scherm][ipad1]
+ ![ipad 2de scherm][ipad2]
  
  ### iPhone 5s
- 
+ ![iphone 1ste scherm][iphone1]
+ ![iphone 2de scherm][iphone2]
  
  
  ## Conclusie
@@ -69,3 +75,10 @@ Voor de extra ervaring heb ik besloten om het versturen van het lijstje op dezel
 - [x] Student kan uitleggen wat Progressive Enhancement en Feature Detectie is en hoe dit toe te passen in Web Development
 
 [xperia1]: xperia.png
+[xperia2]: xperia2.png
+[lg]: lg.png
+[ipad1]: ipad-mini3-1.png
+[ipad2]: ipad-mini3-2.png
+[iphone1]: iphone-5s-1.png
+[iphone2]: iphone-5s-2.png
+
