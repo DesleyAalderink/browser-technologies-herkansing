@@ -40,7 +40,7 @@ Voor de extra ervaring heb ik besloten om het versturen van het lijstje op dezel
  Ik heb mijn lijstje op meerdere browsers getest. Over het algemeen zag het er goed uit. Het kwam soms door dat bepaalde stijlingen niet helemaal goed doorkwamen en ik heb zelfs gemerkt dat er op 1 device zowel de CSS als de JS het niet deed. 
  
  ### Xperia Z5
- 
+ ![experia test][xperia1]
  
  ### LG G5
  
@@ -67,3 +67,5 @@ Voor de extra ervaring heb ik besloten om het versturen van het lijstje op dezel
   - [x] met meest 'enhanced' versie is super vet, gaaf en h-e-l-e-maal te leuk om te gebruiken
 - [x] Student kan de Basic functionaliteit van een use case doorgronden
 - [x] Student kan uitleggen wat Progressive Enhancement en Feature Detectie is en hoe dit toe te passen in Web Development
+
+[xperia1] xperia.png
