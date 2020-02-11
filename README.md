@@ -37,7 +37,18 @@ Voor de extra ervaring heb ik besloten om het versturen van het lijstje op dezel
   - 97.6 %
     - Om ervoor te zorgen dat 100% van mijn gebruikers de site kan gebruiken, heb ik aan het begin van de code `if(document.querySelector){` staan. Als querySelector namelijk niet ge-support wordt, dan heb ik dus basis HTML en CSS als fallback.    
  ## Browsertest
- Ik heb mijn lijstje op meerdere browsers getest (via Browserstack) en overal was het resultaat hetzelfde. Het werkte optimaal naar behoren zonder enige buggs.
+ Ik heb mijn lijstje op meerdere browsers getest. Over het algemeen zag het er goed uit. Het kwam soms door dat bepaalde stijlingen niet helemaal goed doorkwamen en ik heb zelfs gemerkt dat er op 1 device zowel de CSS als de JS het niet deed. 
+ 
+ ### Xperia Z5
+ 
+ 
+ ### LG G5
+ 
+ ### ipad mini 3
+ 
+ ### iPhone 5s
+ 
+ 
  
  ## Conclusie
  Mijn boodschappen-om-tostis-te-maken lijstje is toegankelijk voor 100% van de internet gebruikers. Ik heb dit getest op meerdere browsers/devices.
