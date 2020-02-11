@@ -47,14 +47,20 @@ Voor de extra ervaring heb ik besloten om het versturen van het lijstje op dezel
  
  ![experia 2de scherm][xperia2]
  
+ 
  ### LG G5
+ Op de LG G5 zag het prescies hetzelfde eruit als op de Xperia. Hetzelfde probleem heersde daar ook.
  ![lg scherm][lg]
  
  ### ipad mini 3
+ Op de ipad mini 3 werkte het super goed. Het enige probleem dat heersde was een de styling van de select buttons, maar op dat na was er verder niks op aan te merken.
+ 
  ![ipad 1ste scherm][ipad1]
  ![ipad 2de scherm][ipad2]
  
  ### iPhone 5s
+ De website viel raar uit op de iPhone 5s. Zowel de CSS als de JS deed het niet. Gelukkig pakte Node het allemaal goed op en het boodschappenlijstje was nog gewoon bruikbaar.
+ 
  ![iphone 1ste scherm][iphone1]
  ![iphone 2de scherm][iphone2]
  
