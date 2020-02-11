@@ -40,7 +40,10 @@ Voor de extra ervaring heb ik besloten om het versturen van het lijstje op dezel
  Ik heb mijn lijstje op meerdere browsers getest. Over het algemeen zag het er goed uit. Het kwam soms door dat bepaalde stijlingen niet helemaal goed doorkwamen en ik heb zelfs gemerkt dat er op 1 device zowel de CSS als de JS het niet deed. 
  
  ### Xperia Z5
+ Als eerst testte ik de website op een Xperia. De site zag er zo goed als hetzelfde uit, maar de styling van de select is niet helemaal hetzelfde. Ook was het duidelijk dat als je de ingeredienten hebt samen gesteld hebt en vraagt om het bonnetje, dat de tekst van "brood" onder de header valt. 
+ 
  ![experia 1ste scherm][xperia1]
+
  
  ![experia 2de scherm][xperia2]
  
