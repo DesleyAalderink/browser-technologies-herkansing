@@ -68,4 +68,4 @@ Voor de extra ervaring heb ik besloten om het versturen van het lijstje op dezel
 - [x] Student kan de Basic functionaliteit van een use case doorgronden
 - [x] Student kan uitleggen wat Progressive Enhancement en Feature Detectie is en hoe dit toe te passen in Web Development
 
-[xperia1] xperia.png
+[xperia1]: xperia.png
