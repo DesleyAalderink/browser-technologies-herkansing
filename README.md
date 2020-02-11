@@ -42,7 +42,7 @@ Voor de extra ervaring heb ik besloten om het versturen van het lijstje op dezel
  ### Xperia Z5
  ![experia 1ste scherm][xperia1]
  
- ![experia 2de scherm][xperia1]
+ ![experia 2de scherm][xperia2]
  
  ### LG G5
  ![lg scherm][lg]
